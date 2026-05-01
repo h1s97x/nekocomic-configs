@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "description": "NekoComic Comic Source Configurations",
+  "sources": [
+    {
+      "name": "Example Source",
+      "fileName": "example.js",
+      "key": "example",
+      "version": "1.0.0",
+      "description": "Example comic source for development reference"
+    }
+  ]
+}
